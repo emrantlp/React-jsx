@@ -26,6 +26,7 @@ function Navbar () {
                     <li><a href="#">Contact</a></li>
                     <li><a href="#">New</a></li>
                     <li><a href="#">New2</a></li>
+                    <li><a href="#">New3</a></li>
                 </ul>
             </div>
             <div className={Style.timediv}>
